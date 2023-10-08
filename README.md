@@ -1,4 +1,4 @@
-# execute_all_sql_in_current_folder_to_excel_sheets_using_python
+# Execute_all_sql_in_current_folder_to_excel_sheets_using_python
 
 ---
 
